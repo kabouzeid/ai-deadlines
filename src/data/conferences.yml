@@ -860,3 +860,20 @@
   - human-computer-interaction
   note: Mandatory abstract deadline on Sep 04, 2025. More info <a href='https://chi2026.acm.org/authors/papers/'>here</a>.
 
+- title: 3DV
+  year: 2026
+  id: 3dv26
+  full_name: International Conference on 3D Vision
+  link: https://3dvconf.github.io/2026/
+  deadline: '2025-08-18 23:59:59'
+  abstract_deadline: '2025-07-25 23:59:59'
+  timezone: UTC-7
+  date: March 20 – March 23, 2026
+  tags:
+  - data-mining
+  - machine-learning
+  - natural-language-processing
+  - computer-vision
+  country: Canada
+  city: Vancouver
+  hindex: 56
